@@ -13,3 +13,6 @@
 
 # Microsoft office
 *.docx
+
+# Ignore desserts subdirectory
+desserts/
